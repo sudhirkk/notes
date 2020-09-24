@@ -13,7 +13,7 @@ gsettings set org.gnome.desktop.lockdown disable-lock-screen 'true'
 gsettings set org.gnome.desktop.lockdown disable-lock-screen 'false'
 ```
 
-*To view the current setting:
+*To view the current setting:*
 ```
 gsettings get org.gnome.desktop.lockdown disable-lock-screen
 ```
